@@ -1,2 +1,2 @@
-# CameraCarWithPanTiltControl
-This repository contains code and diagram for Camera Car with PanTilt Control
+# TerrainDecBotWithPanTiltControl
+This repository contains code and diagram for Terrain Dec Bot with PanTilt Control
