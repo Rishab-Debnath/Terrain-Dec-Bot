@@ -62,7 +62,7 @@ const int PWMLightChannel = 3;
 #define HREF_GPIO_NUM     23
 #define PCLK_GPIO_NUM     22
 
-const char* ssid     = "MyWiFiCar";
+const char* ssid     = "Terrain Car";
 const char* password = "12345678";
 
 AsyncWebServer server(80);
